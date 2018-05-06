@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ConsoleApplication13.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  All 115 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication13.vcxproj -> C:\Users\Koala\Documents\Visual Studio 2017\Projects\AfkBot\Release\Afk Bot.exe
+  ConsoleApplication13.vcxproj -> C:\Users\Koala\Documents\Visual Studio 2017\Projects\AfkBot\Release\Afk Bot.pdb (Full PDB)

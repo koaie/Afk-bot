@@ -1,0 +1,4 @@
+﻿  ConsoleApplication13.cpp
+c:\users\koala\documents\visual studio 2017\projects\consoleapplication13\consoleapplication13\consoleapplication13.cpp(149): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  ConsoleApplication13.vcxproj -> C:\Users\Koala\Documents\Visual Studio 2017\Projects\ConsoleApplication13\Debug\ConsoleApplication13.exe
+  ConsoleApplication13.vcxproj -> C:\Users\Koala\Documents\Visual Studio 2017\Projects\ConsoleApplication13\Debug\ConsoleApplication13.pdb (Partial PDB)
